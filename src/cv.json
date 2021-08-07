@@ -1,0 +1,233 @@
+{
+   "personalInfo": {
+      "name": "👨‍💻 Allam Galan Rosa",
+      "position": "Senior Software Developer",
+      "brief": "Experienced Software Developer with more than 9 years involved in all phases of software development - from concept to delivery. I love to learn new stuff and build great apps for the customers. See your application on production and working as expected, is the most satisfying feeling ever.",
+      "email": "allamgr",
+      "emailDomain": "gmail.com",
+      "location": "Dom. Rep.",
+      "gender": "Male",
+      "github": "allamgr",
+      "linkedin": "allamgr",
+      "twitter": "allamgr"
+   },
+   "educationInfo": {
+      "data": [
+         {
+            "school": {
+               "name": "CertiProf",
+               "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGqXl2RWLuR5A/company-logo_200_200/0/1609950615059?e=1635379200&v=beta&t=XJgefCZ1W5Y2R0OdtcEMFytgH1b3cRiOEY-LKYfOzb4",
+               "url": "https://certiprof.com/"
+            },
+            "degree": "Scrum Foundation Professional Certificate (SFPC)",
+            "startYear": 2019
+         },
+         {
+            "school": {
+               "name": "Oriontek",
+               "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFqyf2mpBoA-g/company-logo_200_200/0/1559143216156?e=1635379200&v=beta&t=APnBkwIuYRwyBVo_-MOjxYlrJ3j-n0j4ZoFJIInXtj4",
+               "url": "https://oriontek.do"
+            },
+            "degree": "Scrum Methodology Training",
+            "startYear": 2018
+         },
+         {
+            "school": {
+               "name": "Universidad Iberoamericana",
+               "logoUrl": "https://cdn5.dominicanasolidaria.org/wp-content/uploads/2019/03/logo-unibe.jpg",
+               "acronym": "UNIBE",
+               "location": "Santo Domingo",
+               "url": "https://unibe.edu.do"
+            },
+            "degree": "Information Technology Engineer",
+            "startYear": 2013,
+            "endYear": 2017
+         },
+         {
+            "school": {
+               "name": "Instituto Tecnológico de las Américas",
+               "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGe06mIXTbLTA/company-logo_200_200/0/1614019428273?e=1635379200&v=beta&t=78DFPsMIEag_PzoV5m_0bsbPlaKJVPxSDCJPn3vgJEI",
+               "url": "https://itla.edu.do/"
+            },
+            "degree": "Software Developer Technologist",
+            "startYear": 2010,
+            "endYear": 2012
+         }
+      ]
+   },
+   "workExperience": {
+      "data": [
+         {
+            "company": {
+               "name": "BairesDev",
+               "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHrJjN1hhMQLw/company-logo_100_100/0/1625087550333?e=1634774400&v=beta&t=VfpoD3sZYcakuQtP6reGzn1DGmwPBRwFBevVSkDt1No",
+               "url": "https://www.bairesdev.com"
+            },
+            "title": "Software Engineer",
+            "startYear": 2019,
+            "startMonth": 12,
+            "current": true,
+            "description": "Working with legacy tools designed by the client, migrating forms and workflows to a new Platoform developed with React, SQL Server, VB and C#"
+         },
+         {
+            "company": {
+               "name": "Oriontek",
+               "url": "https://oriontek.do",
+               "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFqyf2mpBoA-g/company-logo_200_200/0/1559143216156?e=1635379200&v=beta&t=APnBkwIuYRwyBVo_-MOjxYlrJ3j-n0j4ZoFJIInXtj4"
+            },
+            "title": "Lead Software Developer",
+            "startMonth": 4,
+            "endMonth": 12,
+            "startYear": 2018,
+            "endYear": 2019,
+            "description": "Leader of a team of 6 developers. Meetings with the client to define user stories and new requirements, analyze user stories and defining the tasks to the team. Create and implement the new functionalities in the rest api. Implement the design in the web client and integrate it with the backend. Do code reviews of the merge requests."
+         },
+         {
+            "company": {
+               "name": "Technearshore",
+               "url": "https://technearshore.com/",
+               "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHAQFtPcHLDWQ/company-logo_100_100/0/1519875535373?e=1635379200&v=beta&t=hzqApvY3yb1JO5QtofD-OyHhsbkU0mRjlRFhJveAWjU"
+            },
+            "title": "Senior Software Developer",
+            "startMonth": 4,
+            "endMonth": 4,
+            "startYear": 2015,
+            "endYear": 2018,
+            "description": "Design and develop RESTful APIs with Asp .Net Framework using C# and Laravel Framework, creation, and management of the databases for all projects using SQL Databases like MySQL, SQL Server, and SQLite. Development of desktop applications using Microsoft Foundation Classes (C++). Responsible for the requirements analysis and estimations of projects and specific tasks. Front-end development from images and PS files to WordPress themes and plain HTML sites using Bootstrap. Front-end development of SPA, using AngularJS Framework, NgRx, VueJS, Vuex, Bootstrap, HTML, SASS, and CSS. Also, I was responsible for the Integration with the Backend, most of them RESTful APIs. Leader Developer of some projects, the max number of members was 3, including me."
+         },
+         {
+            "company": {
+               "name": "Funglode",
+               "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHO7HTkYlxsGA/company-logo_100_100/0/1519915663550?e=1635379200&v=beta&t=RlQHaQM3jJsQ5jPNln6akP2g06hmMZtfnSJYqtjy5s4",
+               "url": "https://funglode.org/"
+            },
+            "title": "Software Developer Intern",
+            "startMonth": 6,
+            "endMonth": 8,
+            "startYear": 2012,
+            "endYear": 2012,
+            "description": "Tasked with Front-end and Backend development on an existing website, using Joomla, Codeigniter, HTML, JS, CSS."
+         },
+         {
+            "company": {
+               "name": "ITLA",
+               "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGe06mIXTbLTA/company-logo_200_200/0/1614019428273?e=1635379200&v=beta&t=78DFPsMIEag_PzoV5m_0bsbPlaKJVPxSDCJPn3vgJEI",
+               "url": "https://itla.edu.do"
+            },
+            "title": "Software Developer Intern",
+            "startMonth": 1,
+            "endMonth": 5,
+            "startYear": 2012,
+            "endYear": 2012,
+            "description": "System requirements analysis, design architecture and database (SQL Server), backend development (Codeigniter), and front-end development with Foundation framework."
+         }
+      ]
+   },
+   "skillsAndTech": {
+      "technologies": [
+         {
+            "name": "C#",
+            "level": "advanced"
+         },
+         {
+            "name": "Javascript",
+            "level": "advanced"
+         },
+         {
+            "name": "CSS",
+            "level": "advanced"
+         },
+         {
+            "name": "PHP",
+            "level": "advanced"
+         },
+         {
+            "name": "React",
+            "level": "advanced"
+         },
+         {
+            "name": "Node.js",
+            "level": "advanced"
+         },
+         {
+            "name": "SQL",
+            "level": "intermediate"
+         },
+         {
+            "name": "MySQL",
+            "level": "I"
+         },
+         {
+            "name": "Laravel",
+            "level": "I"
+         },
+         {
+            "name": "Typescript",
+            "level": "I"
+         }
+      ]
+   },
+   "portfolio": {
+      "projects": [
+         {
+            "name": "MappRisk",
+            "desc": "Create a web client and API using .net core and react to search for companies and people background in risky databases online, to see if they are blacklisted or have a negative score to do investment.\n\nDeploy the application on Azure",
+            "stack": [
+               "react",
+               "redux",
+               "sass",
+               "azure"
+            ],
+            "startYear": 2019,
+            "endYear": 2020
+         },
+         {
+            "name": "Babeque App",
+            "desc": "Create a web client using react so that registry users and parents can authenticate and check the grades of the school's students, receive and send internal messages. Integrate the frontend with a rest api. The application had an administration module for privileged users.\n\nDeploy the application on Azure.",
+            "stack": [
+               "react",
+               "redux",
+               "azure",
+               "material-ui",
+               "helmet"
+            ],
+            "startYear": 2018
+         },
+         {
+            "name": "SGV",
+            "desc": "Leader of a team of 6 developers, divided into 3 applications (api, mobile and web). Meetings with the client to define user stories and new requirements, responsible for analyzing user stories and defining the tasks that must be performed to meet the requirement. The team is divided into 2 mobile programmers, 2 frontend programmers and 2 backend programmers including myself.\n\nCreate and implement the new functionalities in the rest api. Implement the design in the web client and integrate it with the backend. Do code reviews of the merge requests.",
+            "stack": [
+               "scrum",
+               "angular:4",
+               "typescript",
+               "sass",
+               "c#",
+               "ASP.Net MVC",
+               "Web Api 2",
+               "SQL Server",
+               "EntityFramework",
+               "xUnit",
+               "firebase",
+               "postman",
+               "SSIS"
+            ],
+            "startYear": 2018,
+            "endYear": 2019
+         },
+         {
+            "name": "SolucionB",
+            "desc": "Responsible for creating a web application in Vue and create the api. Layout the design from an .ai file. Implement the functionalities and integrate the application with an api rest. Create unit tests for important scenarios.",
+            "stack": [
+               "vue",
+               "vuex",
+               "sass",
+               "laravel",
+               "vuetify",
+               "mocha"
+            ],
+            "startYear": 2017,
+            "endYear": "present"
+         }
+      ]
+   }
+}
